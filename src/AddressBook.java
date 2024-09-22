@@ -40,7 +40,7 @@ public class AddressBook {
         ab.addBuddy(buddy2);
         ab.addBuddy(buddy3);
         ab.removeBuddy(buddy);
-        //ab.printAddressBook();
+        ab.printAddressBook();
 
         //ab.removeBuddy(buddy2);
         //System.out.println(buddy2.getName());
