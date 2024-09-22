@@ -32,7 +32,7 @@ public class BuddyInfo {
 
         BuddyInfo Homer = new BuddyInfo();
         BuddyInfo Mary = new BuddyInfo("Mary",18);
-        //System.out.println("Hello World");
+        System.out.println("Hello World");
         System.out.println(Homer.getName());
         BuddyInfo buddy = new BuddyInfo("Tom",22);
         AddressBook addressBook = new AddressBook();
